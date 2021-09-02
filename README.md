@@ -21,4 +21,6 @@
 3. Morphological operation.
 4. Contour detection.
 5. Finding centroid by momemts.
- 
+
+#### Link for video
+https://drive.google.com/file/d/1ldnm3kyk8V7rsvVDA8_64TjInI9pZ0Ha/view?usp=sharing
